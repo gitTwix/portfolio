@@ -9,7 +9,7 @@ Personal portfolio website showcasing my skills and projects as an aspiring full
 ## 🛠️ Built With
 
 - HTML5
-- CSS3 (Flexbox, Grid, CSS Variables)
+- CSS3 (Flexbox, Grid, Responsive Design)
 - JavaScript (coming soon)
 - Responsive Design
 
@@ -18,7 +18,7 @@ Personal portfolio website showcasing my skills and projects as an aspiring full
 - **About Me** - Background and introduction
 - **Projects** - GitHub portfolio and project showcase
 - **Skills** - Technologies I work with
-- **Contact** - Get in touch (in progress)
+- **Contact** - Get in touch
 
 ## 🎯 Features
 
@@ -35,7 +35,7 @@ Personal portfolio website showcasing my skills and projects as an aspiring full
 
 - GitHub: [@gitTwix](https://github.com/gitTwix)
 - Email: nathanjballesteros@gmail.com
-
+- LinkedIn: [Nathan Ballesteros](https://www.linkedin.com/in/nathan-ballesteros-25821730a/)
 ---
 
 *Last updated: February 2026*
