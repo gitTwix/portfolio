@@ -10,8 +10,8 @@ Personal portfolio website showcasing my skills and projects as an aspiring full
 
 - HTML5
 - CSS3 (Flexbox, Grid, Responsive Design)
-- JavaScript (coming soon)
-- Responsive Design
+- Vanilla JavaScript
+- GitHub Pages
 
 ## 📂 Sections
 
@@ -22,20 +22,18 @@ Personal portfolio website showcasing my skills and projects as an aspiring full
 
 ## 🎯 Features
 
-- Fully responsive design
-- Clean, modern UI
-- Smooth navigation
+- Fully responsive design (mobile, tablet, desktop)
+- Clean, modern UI with smooth transitions
+- Sticky navigation bar
+- Interactive scroll-to-top button
 - Accessibility-focused
-
-## 📝 Status
-
-🚧 Actively in development - check back for updates!
 
 ## 📫 Contact
 
 - GitHub: [@gitTwix](https://github.com/gitTwix)
 - Email: nathanjballesteros@gmail.com
 - LinkedIn: [Nathan Ballesteros](https://www.linkedin.com/in/nathan-ballesteros-25821730a/)
+
 ---
 
 *Last updated: February 2026*
